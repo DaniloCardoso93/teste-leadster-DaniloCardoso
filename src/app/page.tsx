@@ -2,8 +2,9 @@
 
 import { Banner } from "@/components/banner";
 import { Header } from "@/components/header";
+import { SaleBanner } from "@/components/saleBanner";
 import { theme } from "@/styles/global.style";
-import { ChakraProvider } from "@chakra-ui/react";
+import { Box, ChakraProvider } from "@chakra-ui/react";
 
 export default function Home() {
   return (
@@ -11,6 +12,8 @@ export default function Home() {
       <Header />
       <main>
         <Banner />
+        <Box h="10rem" bg={"whiteFixed"}></Box>
+        <SaleBanner />
       </main>
     </ChakraProvider>
   );
