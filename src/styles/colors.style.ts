@@ -6,7 +6,7 @@ export const colors = {
   },
   secondary: {
     1: "#059cff",
-    2: "#00b1f3",
+    2: "#52D5F9",
     3: "#96d0fb",
     4: "#f0f8ff",
   },
