@@ -1,11 +1,12 @@
 "use client";
 
 import { Banner } from "@/components/banner";
-import LargeWithAppLinksAndSocial from "@/components/footer";
+import Footer from "@/components/footer";
 import { Header } from "@/components/header";
+import { MainContentt } from "@/components/mainContent";
 import { SaleBanner } from "@/components/saleBanner";
 import { theme } from "@/styles/global.style";
-import { Box, ChakraProvider } from "@chakra-ui/react";
+import { ChakraProvider } from "@chakra-ui/react";
 
 export default function Home() {
   return (
@@ -13,11 +14,10 @@ export default function Home() {
       <Header />
       <main>
         <Banner />
-        <Box h="10rem" bg={"whiteFixed"}></Box>
+        <MainContentt />
         <SaleBanner />
       </main>
-      <LargeWithAppLinksAndSocial />
-      {/* <Image src="biblioteca-de-videosArtboard-1-copy (2) (1).png" alt="afda" /> */}
+      <Footer />
     </ChakraProvider>
   );
 }
