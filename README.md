@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Teste Leadster
 
-First, run the development server:
+Esse projeto foi desenvoldido para o teste técnico da empresa Leadster, ao qual irão avaliar se o layout está fidedigno, os commits feitos entre outras coisas.
+O projeto contém alguns cards que ao clicar irá abri um modal com um video que possa ser assistido, contém o logo da empresa, lema e o footer onde é encontrado as redes sociais e endereço da mesma.
+
+
+#Tecnologias
+
+Foi utilizado JavaScript, TypeScript, Next.js e chakra-UI
+
+
+
+
+## Instalação
+
+Clone o projeto
+
+```bash
+git@github.com:DaniloCardoso93/teste-leadster-DaniloCardoso.git
+
+```
+Faça as instalações
+
+```bash
+npm i 
+ou
+npm install
+```
+
+E rode a aplicação
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
+## Carta de apresentação
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Prezado Gustavo Luby
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Espero que esta mensagem o encontre bem. Gostaria de aproveitar esta oportunidade para me apresentar e expressar meu interesse em fazer parte da Leadster.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Meu nome é Danilo Alves Cardoso e tenho 30 anos. Estou atualmente em transição de carreira, deixando para trás minha experiência na área jurídica para seguir minha paixão pela tecnologia. Tenho buscado ativamente oportunidades na área de tecnologia, e acredito que a Leadster seja o ambiente ideal para impulsionar minha trajetória profissional.
 
-## Learn More
+Para respaldar minha transição de carreira e adquirir habilidades técnicas sólidas, estou cursando Engenharia da Computação, o que tem me proporcionado uma base teórica sólida em conceitos de desenvolvimento de software e sistemas. Além disso, recentemente concluí o curso profissionalizante de 2000 horas na Kenzie Academy Brasil, onde me formei como desenvolvedor Full Stack. Durante esse curso, enfrentei desafios significativos, adquiri conhecimentos abrangentes e aprimorei minhas habilidades práticas de programação.
 
-To learn more about Next.js, take a look at the following resources:
+Me considero uma pessoa motivada, curiosa e sempre aberta a aprender. Tenho uma paixão inabalável por tecnologia e estou disposto a enfrentar novos desafios para expandir meus conhecimentos e crescer profissionalmente. Acredito que minha combinação de formação acadêmica em Engenharia da Computação e minha experiência prática como desenvolvedor Full Stack me torna um candidato valioso para integrar a equipe da Leadster.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Além das habilidades técnicas, trago também habilidades de comunicação eficazes, capacidade de trabalhar em equipe e uma mentalidade colaborativa. Estou comprometido em contribuir para o sucesso da Leadster e estou ansioso para trabalhar em projetos desafiadores e inovadores.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Agradeço sinceramente a oportunidade de me candidatar a uma posição na Leadster. Estou disponível para discutir como minha experiência e habilidades podem contribuir para o crescimento e sucesso da empresa.
 
-## Deploy on Vercel
+Aguardo com expectativa a possibilidade de uma entrevista para discutirmos mais detalhes sobre como posso agregar valor à equipe da Leadster. Desde já, agradeço sua consideração.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Atenciosamente,
+Danilo Alves Cardoso
