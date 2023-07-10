@@ -1,16 +1,15 @@
-
 # Teste Leadster
 
 Esse projeto foi desenvoldido para o teste técnico da empresa Leadster, ao qual irão avaliar se o layout está fidedigno, os commits feitos entre outras coisas.
 O projeto contém alguns cards que ao clicar irá abri um modal com um video que possa ser assistido, contém o logo da empresa, lema e o footer onde é encontrado as redes sociais e endereço da mesma.
 
+# Deploy
+
+https://teste-leadster-danilo-cardoso.vercel.app/
 
 #Tecnologias
 
 Foi utilizado JavaScript, TypeScript, Next.js e chakra-UI
-
-
-
 
 ## Instalação
 
@@ -20,10 +19,11 @@ Clone o projeto
 git@github.com:DaniloCardoso93/teste-leadster-DaniloCardoso.git
 
 ```
+
 Faça as instalações
 
 ```bash
-npm i 
+npm i
 ou
 npm install
 ```
@@ -33,6 +33,7 @@ E rode a aplicação
 ```bash
 npm run dev
 ```
+
 ## Carta de apresentação
 
 Prezado Gustavo Luby
