@@ -31,7 +31,7 @@ const ListFooter = ({ children }: { children: ReactNode }) => {
   );
 };
 
-export default function LargeWithAppLinksAndSocial() {
+export default function Footer() {
   return (
     <>
       <Box>
